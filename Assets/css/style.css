@@ -12,6 +12,12 @@ body,
   padding: 0;
 }
 
+h1:hover {
+  transform: rotate(-2deg);
+  color: chartreuse;
+  font-size: 250%;
+}
+
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
